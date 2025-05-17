@@ -132,6 +132,18 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_XM.mdlx/-1.dds
+- name: remastered/obj/P_EX100_XM.mdlx/-4.dds
+  multi:
+    - name: remastered/obj/P_EX100_XM.mdlx/-4.dds
+    - name: remastered/obj/P_EX100_XM_BTLF.mdlx/-4.dds
+    - name: remastered/obj/P_EX100_XM_KH1F.mdlx/-4.dds
+    - name: remastered/obj/P_EX100_XM_MAGF.mdlx/-4.dds
+    - name: remastered/obj/P_EX100_XM_TRIF.mdlx/-4.dds
+    - name: remastered/obj/P_EX100_XM_ULTF.mdlx/-4.dds
+  platform: pc
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_XM.mdlx/-2.dds
 - name: remastered/obj/P_EX100_XM.mdlx/-2.dds
   multi:
     - name: remastered/obj/P_EX100_XM.mdlx/-2.dds
@@ -143,7 +155,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: remastered/obj/P_EX100_XM.mdlx/-2.dds
+  - name: remastered/obj/P_EX100_XM.mdlx/-3.dds
 - name: remastered/obj/P_EX100_XM.mdlx/-3.dds
   multi:
     - name: remastered/obj/P_EX100_XM.mdlx/-3.dds
@@ -152,18 +164,6 @@ assets:
     - name: remastered/obj/P_EX100_XM_MAGF.mdlx/-3.dds
     - name: remastered/obj/P_EX100_XM_TRIF.mdlx/-3.dds
     - name: remastered/obj/P_EX100_XM_ULTF.mdlx/-3.dds
-  platform: pc
-  method: copy
-  source:
-  - name: remastered/obj/P_EX100_XM.mdlx/-3.dds
-- name: remastered/obj/P_EX100_XM.mdlx/-4.dds
-  multi:
-    - name: remastered/obj/P_EX100_XM.mdlx/-4.dds
-    - name: remastered/obj/P_EX100_XM_BTLF.mdlx/-4.dds
-    - name: remastered/obj/P_EX100_XM_KH1F.mdlx/-4.dds
-    - name: remastered/obj/P_EX100_XM_MAGF.mdlx/-4.dds
-    - name: remastered/obj/P_EX100_XM_TRIF.mdlx/-4.dds
-    - name: remastered/obj/P_EX100_XM_ULTF.mdlx/-4.dds
   platform: pc
   method: copy
   source:
